@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/276
+seq: 276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上是歲有閏而漢歷失閏故以為七月晦也依斯法算距嘉靖甲寅歲一千七百八十七年距萬歷辛巳歲一千七百一十四年日食九分四十九秒初虧午正一刻西北食甚未初三刻正北復圓申初初刻東北食甚日躔黃道翼八度五十一分赤道翼八度三十九分依舊法算距至元辛歲一千七百一十四年日食九分六十三分初虧午正三刻正西食甚未正初刻復圓申初二刻正東食甚日躔黃道翼六度五十二分赤道翼六度四十一分漢武帝征和四年八月辛酉晦日有食之不盡如鉤
+  hash: sha256:fb9262e09efce01bc64bf136d5b4efebdc98a8f55d60bf335afdedfb41228d09
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:cf742322788148bb9f5f07cb5291ad84dc9e7bea9319d0dad6654aa2dd482a58

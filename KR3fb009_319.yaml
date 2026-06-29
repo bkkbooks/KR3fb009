@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/319
+seq: 319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:d4c85dcec523a2828e069b64eb7e6651f74446c77e89619b419bc89247baa176

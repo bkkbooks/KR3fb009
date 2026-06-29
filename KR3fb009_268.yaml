@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/268
+seq: 268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 授時丁卯九十刻又六年癸未歲十一月冬至大統壬寅八刻斯法辛丑九十七刻授時辛丑九十七刻又四年丁亥歲十一月冬至大統癸亥五刻斯法壬戌九十三刻授時壬戌九十四刻又四年辛卯歲十一月冬至大統甲申二刻斯法癸未九十刻授時癸未九十一刻又七年戊戌歲五月夏至大統戊午十刻斯法丁巳九十七刻授時丁巳九十九刻又四年壬寅歲五月夏至大統已卯七刻斯法戊寅九十四刻授時戊寅九十五刻又四年丙午歲五月夏至大統庚子四刻斯法巳亥九十一刻
+  hash: sha256:451807d05329aacb55386efc095336dc7da2c21f69565521b023f63b99a6cc68
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:ad23451ab05bb2286ffcf540e4bbc71c738d4d565f3a288a747178d0fd99c6e9

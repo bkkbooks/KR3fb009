@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求盈縮初末限視入歷盈者在盈初縮末限巳下縮者在縮初盈末限以下為初限巳上反減歲中餘為末限求盈縮差盈初縮末者立差三十一忽平差二分四十六秒定差五百一十三分三十二秒縮初盈末者立差二十七忽平差二分二十一秒定差四百八十七分六秒各置立差以所求限大餘乘之加平差又乘之用減定差再乘之滿萬為慶不滿退除為分秒命為盈縮積與次限盈縮積相減餘為盈縮分以乘入歷初末限下小餘萬約為分加入其限盈縮積為盈縮差赤道宿度
+  hash: sha256:12ae2e190ddd94465c3ea8b9ac03a050b322add94f87013eea80a098f1355971
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:d93f9f4279c9061776e9e287118c8de45f8f7815d49184aec451c055e3c98d85

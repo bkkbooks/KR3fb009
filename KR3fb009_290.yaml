@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 牛初度依近代所測也依斯法算距嘉靖甲寅歲一千一百一十七年距萬歷辛巳歲一千一百四十四年月食十一分六十二秒初虧子正初刻三更三點正東食既丑初一刻四更二點食甚丑初三刻四更四點生光丑正初刻四更五點復圓寅初一刻五更四點正西食甚月離黃道牛初度五十一分赤道牛初度五十五分依舊法算距至元辛巳歲八百四十四年月食十一分六十二秒初虧子正初刻三更四點正東食既丑初二刻四更三點食甚丑正初刻四更四點
+  hash: sha256:08b56e0e42b6d65b919140bd0212546819568c5b6df15a0d289a29bc682c644d
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:26e31fb432c68e56a17def426c08042082c5916dced33659de44beff7076a6c8

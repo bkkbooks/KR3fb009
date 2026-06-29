@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/87
+seq: 87
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求入十二次時刻各置黃道入次宿度及分秒以其日晨前夜半黃道日度及分秒減之餘以日平行度乘之為實以其日行定度為法實如法而一所得依時刻法求之即入次時刻折中厯法卷之二終
+  hash: sha256:7b3f145774185a4d7d2dc0f9a3c000e247744d9f0047d9c3415ceac590e069b6
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:8b988df33606e0e23011f3158bbbd9eaae7365e2a8a7ad39108e967ee9b3f2e1

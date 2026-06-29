@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷五步交道共十八條卷六步交食共十七條卷七步五緯共二十三條卷八諸厯冬至考上自漢至郭周卷九
+  hash: sha256:9b5f793b39ec782808e098817b794dd56fe7c5e15ecb8e14385fc62de1fb8031
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:2a6379a91a80a4c27dffe7137d22effb81443fd3019f6d5c50b51af8832a3984

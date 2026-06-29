@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/272
+seq: 272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非不多也斯率恆處二歷強弱之間所以謂之折中云折中厯法卷之十一終
+  hash: sha256:85c09c1b87b3e0b08e747f0edc408a03b19c1cbc5081254445ebcb9d8118f914
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:a1cc721f04309b73df674d0de6013648775d7197329fb362402867f78933bfa7

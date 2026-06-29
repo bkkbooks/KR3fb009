@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 建午芒種五月節夏至五月中螳蜋生鵙始鳴反舌無聲鹿角解蜩始鳴半夏生建未小暑六月節大暑六月中溫風至蟋蟀居壁鷹始摯腐草為螢土潤溽暑大雨時行建申立秋七月節處暑七月中凉風至白露降寒蟬鳴鷹乃祭鳥天地始肅禾乃登建酉白露八月節秋分八月中鴻雁來玄鳥歸羣鳥養羞雷始收聲蟄蟲壞戶水始涸建戌寒露九月節霜降九月中鴻雁來賓雀入大水為蛤菊有黃華豺乃祭獸草木黃落蟄蟲咸俯建亥立冬十月節小雪十月中水始冰地始凍雉入水為蜃虹藏不見天氣上升地氣下降閉塞而成冬
+  hash: sha256:bf12c9b0953f1355baa3224b9958949480c69a0e42cd830e05e986ccc2dc00f8
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:12f0c40b9dc29dd7d130b4976284a7ba665ea2b57d6fb58a6d3a65c11841674b

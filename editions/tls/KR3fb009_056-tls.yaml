@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 位起十八日戌位十九酉位二十如是右旋視所至處亦得汎閏若至子位丑位者閏在昨歲之冬求朔積置所求月策減去閏餘卽其月朔積若求閏月及閏後月者復加朔策方爲其月朔積求經朔弦望置所求月朔積加黃鍾大小餘滿旬周去之各得其月經所加以望策卽得經望以弦策加經朔得上弦加經望得下弦求盈虛置十六日減去氣策餘爲没限恒氣小餘在没限巳上爲有没之氣以十五乘之用減氣策餘如氣策小餘而爲一日併恒氣大餘爲没古歷謂之没今歷謂之盈置三十日減去朔策餘爲朔虛經朔小餘在朔虛巳下爲有滅之朔以三十乘之如朔虛而一爲日併經朔大餘爲滅古歷謂之滅今歷謂之虛折中厯法卷之一終
+  hash: sha256:caedce8252c7394fd442b49a24fd30de2a3a1abd85a524a93a7f2aca68cab455
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:ac6c1c07eafd2bdc7a498f3f0110700d289c8a24aff2aafdec6435f1d2ee9aa6

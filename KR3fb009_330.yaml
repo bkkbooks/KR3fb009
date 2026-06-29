@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/330
+seq: 330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 備他年文獻以志私心向往云同治已巳嵗十一月朔後學傅宗善拜跋
+  hash: sha256:dc38350d54a36562397cf57965ccf57ddc83b05d8de32ec7c039b3a25b32d946
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:74b3129a7c1f3fea6c87836cddc664520db351bb00288163ade1e77df99c3ef5

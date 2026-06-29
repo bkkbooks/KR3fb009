@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置所求氣策三而一得候策求爻策置所求候策五而一得爻策求十二律呂置歲定積減去律應滿律總去之不盡得歲首黃鍾正律大小餘大餘命甲子算外纍加律策得次律大小餘滿律總去之求六十四卦置歲首黃鍾正律大小餘即是復卦初九爻象纍加爻策得次爻大小餘滿旬周去之命法如前求二十四氣併所求年律策氣策加黃鍾大小餘滿旬周去之即立春正月節加氣策大小餘滿旬周去之命如上求七十二候置立春大小餘即東風解凍之候纍加如候策得次候大小餘滿旬周去之命如上求五行用事各以四立之節為春木夏火秋金冬水始用事日爻
+  hash: sha256:adfe3d72f692117ecbf9d6aecd5938e933ced8d395aaad825dfc843cb0fadcbf
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:4b63ddcc1cc33673eed77b9d514c73552efba87b28be79c9ba1510c541da72d2

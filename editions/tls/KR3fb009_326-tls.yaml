@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/326
+seq: 326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覩雖頗聞其略節然莫知其詳也惟在推考者致精力焉折中厯法卷之十三終
+  hash: sha256:347b493866cb834ad4c5005e9e1c1af3d2698b798ccd9abf9a600c684c33f51c
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:afaea2cffc7cf89bc1e9bb838e58f41ec71224a8e0b8ec0c9195890ac996c135

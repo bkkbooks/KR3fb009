@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又二年辛丑歲十一月已酉夜望月食依斯法算距嘉靖甲寅歲四十七年距萬歷辛巳歲二十年月食七分八十九秒初虧丑初初刻三更五點東南食甚丑正二刻四更三點正南復圓寅初三刻四更五點西南食甚月離黃道畢十四度六分赤道畢十四度九十三分依舊法算距至元辛巳歲三百二十年月食七分八十九秒初虧丑初初刻三更五點東南食甚丑正二刻四更三點正南復圓寅正一刻五更一點西南食甚月離黃道畢十三度九十六分赤道畢十四度八十三分
+  hash: sha256:bce5ed03211419a15cfe6fc0f2fb773bc3aa2c97a72472b015183ea28822308e
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:72807aa345e3862ebad936fb002800396aca60e54f193cb3912e86fa65822e81

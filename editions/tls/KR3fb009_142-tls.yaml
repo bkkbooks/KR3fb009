@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步五緯第七合應土星二百六十二日三千二十六分木星三百一十日千八百三十七分火星三百四十三日五千一百七十六分金星二百三日八千三百四十七分水星九十一日七千六百二十八分周率土星三百七十八日九百一十六分木星三百九十八日八千八百分火星七百七十九日九千二百九千分金星五百八十三日九千二十六分水星百一十五日八千七百六十分歷應土星八千六百四日五千三百三十八分木星四千一十八日六千七十三分火星三百一十四日四十九分
+  hash: sha256:09cd77fd2b5b918bd25713419298f409b6e7da797e7b5f9a1dfa2fd299ea12f8
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:4b1e10bc57794eecdf6828176b204afa5421910b26c5c964101a4c5ebba3dbb8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/300
+seq: 300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謹按此條歷家所謂帶食者也舊以應見者為不見應不見者為見與斯法不同知歷者當辨孰為近是已上往古日月食共十條距今甲午歲千餘年矣自甲午巳後未來日月食共十條開列後卷中折中厯法卷之十二終
+  hash: sha256:85780b0d448729fba4af985a89e24acdf8d1e4baab1bdd326ee40dcf74afe2bf
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:a95489ad0893b59e618aa6a99a018d623c4f7e6b2a8910a0b5ff0af484927400

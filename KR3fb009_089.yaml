@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/89
+seq: 89
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步晷漏第三京師北極出地四十度太冬至中晷恆數丈五尺九寸六分夏至中晷恆數二尺三寸四分冬至晝夏至夜三十八刻夏至晝冬至夜六十二刻巳上見元志嶽臺北極出地三十五度冬至中晷恆數丈二尺八寸三分夏至中晷恆數尺五寸七分冬至晝夏至夜四十刻夏至晝冬至夜六十刻巳上見宋志黃道出入赤道內外度及半晝夜分積度內外度內外差冬晝夏夜夏晝冬夜晝夜差
+  hash: sha256:3bcdd1d30aa4f1af18daae26219b81a8fccb40edef19566adfa0e449cc5f83c3
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:f34e50ba5ae9a41c2ad21c69a0bca8376fb13cbd2ec9214ac2a72bb85c83d7fe

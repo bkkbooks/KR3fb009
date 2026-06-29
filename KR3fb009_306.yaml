@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/306
+seq: 306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距至元辛巳歲三百一十五年日食九分七十秒初虧午初初刻正西食甚午正二刻復圓未初三刻正東食甚日躔黃道翼十八度九十分赤道翼十七度五十三分又四年戊戌歲七月戊戌夜望月食依斯數算距嘉靖甲寅歲四十四年距萬歷辛巳歲一十七年月食九分十八秒初虧丑初初刻四更一點東北食甚丑正二刻四更五點正北復圓寅正初刻五更四點西北食甚月離黃道虛六度九十六分赤道虛六度八十六分依舊法算
+  hash: sha256:b0072f79c9696eb923c5d542861160d8827df68c32982155381fc5c41980c081
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:06a876367c28b9ce0d301267b0ba377281b929b7697253e0d2d18438b984bf4b

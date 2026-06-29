@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/63
+seq: 63
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列宿相距度數歷代所測不同非微有動移則前人所測或有未密漢唐宋用窺管止存大略元人始用二綫遂及分焉今歷因之用爲常數校天爲密若考往古仍依當時宿度命之其時無宿度者壹準前人宿度故並載之以備考古所須惟推密率日躔無論古今並依今歷有分赤道宿度爲準求冬至加時赤道日度置歲定積命日爲度餘爲度下分秒減去周應滿歷率赤道歲差折中加躔周爲歷率去之不盡卽所求日躔赤道
+  hash: sha256:f2b26df0f1c23c3e7bd4ecacc3a10f77d658714b7b5cd6925b78197562829509
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:809f27c06b33da08171db11d62676c78ffe9642f4db9936487420d780dc4bf3c

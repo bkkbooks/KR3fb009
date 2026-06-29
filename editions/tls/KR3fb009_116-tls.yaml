@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至後滿象策去之爲分後猶多再去之爲至後復多仍去之爲分後以其黃道積度減之餘以赤道率乘之如黃道率而一所得以加赤道積度及所去象策各爲赤道定積度以歲首冬至加時赤道日度加而命之滿赤道宿度去之卽每日夜半晨昏赤道月度及分秒折中厯法卷之四終
+  hash: sha256:88f7de0a0e205d64e13e2880b0daacc80b37338a8eb131dbe5dfefc911801118
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:b80afc22e6c496dca6538cfd0d21f23b1e1c8b3995a09081009c7f174ea7ecf2

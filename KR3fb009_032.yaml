@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靈夀朱仲福纂録邑後學傳宗善校字步發斂第一萬歷甲寅歲為歷元夫甲寅者即所謂閼逢攝提格之歲也古人歷法多以此為距算蓋甲寅於五行為木於五常為仁木為五行之始仁為五常之首是故重之斷取近距命為元也元紀四千五百六十紀即元也四千五百六十者五行相代一終之大數也自堯元年甲辰歲推而上之六百五十年得此甲寅歲命為元也朞實千四百六十一後漢志曰歷數之生也乃立儀表以校日景景長則日遠天度之端也日發其端周而為歲然其景不復初四周千四百六十日而景復初是則日行之終以周初日得三百六十五餘四分之一為歲
+  hash: sha256:6f42f4b460b3d415acbf83374a047c9ed7a6d9ccd23e727c02fa2a1b37eeae0a
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:70eafa0fcc665ceb27aa33b73e80f2649ec2c16cd7b1db55bc8f15c6a9effb4e

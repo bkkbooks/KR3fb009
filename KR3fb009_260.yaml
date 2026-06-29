@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/260
+seq: 260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是年十一月癸丑日戌正二刻冬至見元志太初甲子七十五刻大衍甲寅六十三刻紀元甲寅一刻授時癸丑八十一刻大統癸丑八十一刻斯法癸丑八十一刻右太初後天十一日大衍紀元後天一日餘與天合至元十七年庚辰歲十一月已未日丑初一刻冬至見元志太初庚午空刻大衍已未八十七刻紀元已未二十五刻授時巳未六刻大統巳未六刻斯法已未六刻右太初後天十一日餘與天合本朝洪武十六年癸亥歲十一月巳未日冬至見大學衍義補太初庚午七十五刻大衍庚申五刻紀元已未三十四刻授時巳未二刻大統已未三刻斯法已未二刻右太初後天十一日大衍後天一日餘與天合
+  hash: sha256:fe372c58537d3b8f759514db088c6a7c5a0ac1f92853bf221fdffe37f868f5cc
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:9cf9bbc48dbcdeb56c755c0f39ecc7cc1bb84fa0d992fc937ab0835a5b364b18

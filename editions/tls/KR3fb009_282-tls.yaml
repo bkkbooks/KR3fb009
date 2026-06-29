@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/282
+seq: 282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復圓申正三刻東北食甚日躔黃道角十一度六十九分赤道角干度七十七分魏文帝黃初二年六月二十七日戊辰加時未日食見晉書歷志依斯法算距嘉靖甲寅歲一千三百三十三年距萬歷辛巳歲一千三百六十年初虧午正三刻西北食甚未初三刻正北復圓未正三刻東北食甚日躔黃道張九度七十四分赤道張九度八十九分依舊法算距至元辛巳歲一千六十年日食四分二十四秒初虧未初一刻西北食甚未正一刻正北
+  hash: sha256:6c5cf866ea660208712c3511d8425b442869a58ba5804fa1a10cff2c02174cad
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:861ac021f131dcfc2cf8cb1bb45c1d4acc26c3388b05fff3146796d01dcb3fe8

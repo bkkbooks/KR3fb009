@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/286
+seq: 286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距至元辛巳歲一千六十年月食八分七十一秒初虧子初二刻三更二點正東食甚丑初一刻四更二點復圓寅初一刻五更二點正西食甚月離黃道室五度九十分赤道室五度七十五分宋文帝元嘉十三年十二月十六日甲夜月食盡在鬼四度以衝計之日當在牛六見宋書祖沖之歷議按甲夜或作中夜者誤甲夜者一更也乙丙丁戊夜二三四五更也盡字疑衍今歷鬼旡四度蓋據當時赤道度耳元志所云列舍相距度數歷代所測不同非微有動移則前人所測或有禾密正謂此也已下三條仿此依斯法算距嘉靖甲寅歲一千一百一十八年距萬歷辛巳歲一千一百四十五年月食八分七十三秒
+  hash: sha256:fcf3e4d1a16eaa1023eeceeaf7f86a1408091e9e954a12c3258b77f64d3e954e
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:b37fc95fa31ae0ff21a8bb2216afbf1b9c147b63f474da11d7bef874bbca898f

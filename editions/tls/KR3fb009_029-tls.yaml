@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 諸厯冬至考下自宋至元共五十家卷十二至晷景考上自春秋至唐開元卷十一二至晷考下自宋下雅至萬厯九千一百年卷十二古今交食考上共十條卷十三古今交食考下共十條
+  hash: sha256:c9ed0e2c703e04431c7943099812b6e45b1718195e524dff8510c6e4106f5017
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:0d05027bdec25674dab9065d832edc5c9b505efb3aebe4e7b6c893c2383f2b6e

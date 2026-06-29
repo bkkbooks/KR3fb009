@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/105
+seq: 105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步月離第四月平行十二度三十六分八十七秒半離周三百三十六限十六分六十秒離中百六十八限八分三十秒離象八十四限四分十五秒轉周二十七日五十五刻四十六分轉中十三日七十七刻七十三分轉象六日八十八刻八十六分半轉差一日九十七刻六十分轉應七日五十刻三十四分疾徐度率積度入轉日初未限疾遲度轉度率轉積度
+  hash: sha256:fb1154d8db2c2bd10986bd63bbd5ae9338525a23359e0886f666f72087986f81
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:38e46f9597fee2fa6bfbdee66a88681de7238978f8d11bee731bac76d261273a

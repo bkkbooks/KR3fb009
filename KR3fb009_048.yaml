@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 建子大雪十一月節冬至十一月中鶡鴠不鳴虎始交荔挺生蚯蚓結麋角解水泉動建丑小寒十二月節大寒十二月中雁北鄉鵲始巢雉雊雞乳征鳥厲疾水澤腹堅求歲定積置歷元所距年積算為泛距來加往減元紀為定距以其實乘之四約為積日不滿退除為刻是名泛積定距自相乘七之八而一所得滿百萬為刻不滿為刻及分秒帶半秒巳上者收作一秒是名節氣歲差用減泛積餘為定積求律策置所求定積與次年定積相減餘如十二而一得律策求氣策置所求律策二而一得氣策求候策
+  hash: sha256:fefdd0f26609b37f6c772092ecd72749fa685dbe1ede58636f6656f02dc1ab35
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:fe956473146755ff7ddfcd39dd047dc07dbd88bddead7a7052aa6eb33652f97d

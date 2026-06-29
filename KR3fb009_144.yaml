@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星六十日千九百七十五分水星二百五十三日七千四百九十七分度率土星二十九日四千二百五十五分木星十一日八千五百八十二分火星一日八千八百七分半金星一日水星一日伏見土星十八度木星十三度火星十九度金星十度半水星夕伏晨見十九度晨伏夕見十六度半諸段積日積度
+  hash: sha256:d3c34bd1a9b8ce4302ff42b714edb1b4cb529f6b69ae2101d5dfc4ce63707026
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:2774f211dbbff1ef282d18ae6604c2de1e318244f7d5dea52c37b65cfe40b445

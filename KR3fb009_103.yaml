@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/103
+seq: 103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求逐更逐點中星置昏後曉中星積度不及則加躔周以曉前昏中星積度減之餘二十五而一所得為點差置昏中星積度命為一更一點以點差纍加之滿赤道宿度去之即逐更逐點中星宿度及分秒求九服所在漏刻各於所在以儀測驗或下水漏以定其處冬至或夏至夜刻與五十刻相減或以為至差刻以所求日黃道出入赤道內外度及分秒求之二十三度九十分除之所得內減外正加五十刻即所求夜刻以減百刻餘為晝刻其九服所在逐段晝夜差半晝夜分及日出入晨昏分更點中星等率並準隨處晷漏修短依術推之折中厯法卷之三終
+  hash: sha256:6fb86a68fef782c0e83c99631cbd87b1884c26dc49fd56a6fd064374d4d6ad4e
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:5b8c00098ecbd07f030bd5faa7ea6fecacabc8e3cc3138bccf7d7b32b8e31e26

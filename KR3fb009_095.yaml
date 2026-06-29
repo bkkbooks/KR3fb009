@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/95
+seq: 95
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 京師譬如北辰四方拱之畫夜漏刻宜為歷準至如
+  hash: sha256:e45436edfe7a2e361aed2bb680a7ab29652a6ed262509414b32a984afe44fe33
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:b9ec1947ca7b5c00ca2ff6a5ff0fec953d1ded23d0d6c29597c4fab0a26f0ab4

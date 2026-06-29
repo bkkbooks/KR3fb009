@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/302
+seq: 302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古今交食考第十三自萬歷二十二年甲午起又二年丙申歲三月壬午夜望月食依斯法算距嘉靖甲寅歲四十二年距萬歷辛巳歲一十五年月食三分七十秒月未入巳復二分六秒月巳入不見復一分六十秒初虧寅初三刻五更三點東北食甚寅正三刻曉刻正北復圓卯初三刻在晝西北食甚月離黃道角五度六分赤道角四度七十六分依舊算法距至元辛巳歲三百一十五年月食三分七十一分
+  hash: sha256:29b3c3d1144b9eba6d3e502222e6218bad0c02ae93a23cc09f69f86145e4d979
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:2662f1cfda3360e600b27ff62dc5969033bdeae97080aaaac629ecd6cc749e4b

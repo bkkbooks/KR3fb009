@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/278
+seq: 278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在亢二度晡時食從西北日下晡時復同上依斯法算距嘉靖甲寅歲一千六百四十二年日食九分八十五秒初虧未初二刻西北食甚未正三刻正北復圓申正初刻東北食甚日躔黃道角十一度七十八分赤道角十度八十五分依舊法算距至元辛巳歲一千三百六十九年日食九分四十三秒初虧未正初刻西北食甚申初一刻復圓申正二刻正東食甚日躔黃道角九度八十五分赤道角九度七分謹按歷經云若當時有宿度仍依當時歷法命之依三統歷冬至日在牽牛加而命之則與亢
+  hash: sha256:3edd55c09eff92b9be7977180db118dcb87f0dfe5a589b45cd169545404e7e71
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:e02c438285eb1c2f92ee3f88af904930d678ad99049ef32bc090d7b48ff18cc0

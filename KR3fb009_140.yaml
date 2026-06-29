@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分巳上者始言之求食甚宿度置食甚入盈縮定度日食在盈無所加在縮加躔中月食在盈加躔中在縮無所加為黃道定積置冬至距後赤道積度在定積巳下者滿象策去之餘依黃道術求之用減定積滿象策去之即食甚躔離黃道宿度及分秒折中厯法卷之六終
+  hash: sha256:3a6bbf5d515bd1ce66586615a1153b643b0505183476b6595c9a7d419dacf6c1
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:40892e92f1e541abfd2b40b21e9ffe9dbb8e2a87cd59168dd95b265006ea0de3

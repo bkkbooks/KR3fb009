@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb009/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知况又為覩厯經不識儀表粗曉算術罔諳星象惟據史冊成說實乏師蹺口授是以斯法或有差誤天下後世通儒見者有以正其謬而存其理其於厯法不無小補以折衷衆法而成之故謂之折中厯法云萬厯二十二年十月之吉靈夀朱仲福序
+  hash: sha256:37e8ac5cfed0d9a76372b1ecb9b8ffd15da6b409ae66c61cb8bfd93076095436
+metadata:
+  title: 折衷曆法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb009.xml
+hash: sha256:5cc8e3a7e55f7f8fc037edc7a73ffa24baeda16aa47d297ef573dbc8769d5d93
