@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 卷一步發斂共二十條卷二步日躔共十九條卷三步晷漏共十三條卷四步月離共十三條
-  hash: sha256:f0282c2ad793356a8dd7af177b6470ab667f1653350440ed4d4f6161b01dabab
+  text: 卷一步發歛共二十條卷二步日躔共十九條卷三步晷漏共十三條卷四步月離共十三條
+  hash: sha256:5b57b90ddc5eaf349dafd32154fad6f6b56e7b7636832ceb96a8bedd4a655537
 metadata:
   title: 折衷曆法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb009.xml
-hash: sha256:835db172a61edbe677bcd162c64a213ea2c3fc9aea258749d9195214421f4a55
+hash: sha256:7b4e2214135114ceec5f55516003583d941bce8b6c03cb32696d41516e494eb5

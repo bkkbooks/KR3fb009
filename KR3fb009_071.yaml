@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 推變黃道宿度置四正後赤道宿積度及分秒以其赤道積度減之餘以黃道率乘之如赤道率而一所得以加黃道積度為二十八宿黃道積度以前宿黃道減之為其宿
-  hash: sha256:e178a934647ccef58eeb6ae3b614a5669a23d3f74b26d2f164c43e2ed4864d99
+  text: 推變黃道宿度置四正後赤道宿積度及分秒以其赤道積度減之餘以黃道率乘之如赤道率而一所得以加黃道積度爲二十八宿黃道積度以前宿黃道減之爲其宿
+  hash: sha256:11dc04421d29f40e4369677d15c765bc5cb285f029e2935a2d873af4a3e51019
 metadata:
   title: 折衷曆法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb009.xml
-hash: sha256:ea001761cca54bacad42e4f771ff3e3e4d951e39acbf59248b5101c34388babd
+hash: sha256:731ea60637d44abc688eac6b951b40bec8eb0a64eacfbfcfb734dd78fbf22631

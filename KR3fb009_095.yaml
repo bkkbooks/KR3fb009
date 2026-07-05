@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 京師譬如北辰四方拱之畫夜漏刻宜為歷準至如
-  hash: sha256:e45436edfe7a2e361aed2bb680a7ab29652a6ed262509414b32a984afe44fe33
+  text: 京師譬如北辰四方拱之畫夜漏刻宜爲歷準至如
+  hash: sha256:7b523b339774dc8201106aeccbd4c5edf9db35d62d885f156d4ccf1887db474a
 metadata:
   title: 折衷曆法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb009.xml
-hash: sha256:b9ec1947ca7b5c00ca2ff6a5ff0fec953d1ded23d0d6c29597c4fab0a26f0ab4
+hash: sha256:35b0bd30575406d6828902cc0c43743dab8d99a8f54723c72432669aa742a135

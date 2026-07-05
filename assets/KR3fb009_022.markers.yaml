@@ -11,18 +11,15 @@ markers:
   - {type: line-break, offset: 40, content: '', id: KX_3_dup11, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fb009_tls_001-p11.s4}
   - {type: line-break, offset: 60, content: '', id: KX_4_dup11, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 70, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: 'tls:seg', offset: 80, content: '', id: KR3fb009_tls_001-p11.s5}
   - {type: line-break, offset: 80, content: '', id: KX_5_dup11, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 100, content: '', id: KR3fb009_tls_001-p11.s6}
   - {type: line-break, offset: 100, content: '', id: KX_6_dup10, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 102, original: 斍, replacement: 覺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3844}}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fb009_tls_001-p11.s7}
   - {type: line-break, offset: 120, content: '', id: KX_7_dup10, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 126, content: '', id: KR3fb009_tls_001-p11.s8}
   - {type: line-break, offset: 126, content: '', id: KX_8_dup10, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fb009_tls_001-p11.s9}
   - {type: line-break, offset: 146, content: '', id: KX_9_dup10, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 152, original: 譔, replacement: 撰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1471}}
   back: []
-hash: sha256:909fe45a752d0a6bfd0f5264647f8752139d0a3f26992b5af32dd3ece53a0c11
+hash: sha256:284d8cfda725a692e5615e8552a6506d4e852e8c3bcc71c7700c88c43dca17ac

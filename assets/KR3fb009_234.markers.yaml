@@ -24,7 +24,6 @@ markers:
   - {type: line-break, offset: 111, content: '', id: KX_8_dup101, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg-start', offset: 129, content: '', id: KR3fb009_tls_001-p122.s8.2, seg_type: comm, member_ids: [KR3fb009_tls_001-p122.s8.2]}
   - {type: 'tls:seg', offset: 129, content: '', id: KR3fb009_tls_001-p122.s8.2}
-  - {type: substitution, offset: 129, original: 仝, replacement: 同, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0172}}
   - {type: 'tls:seg-end', offset: 131, content: '', id: KR3fb009_tls_001-p122.s8.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3fb009_tls_001-p122.s9}
   - {type: line-break, offset: 131, content: '', id: KX_9_dup101, _xml_error: duplicate-id, _xml_original_id: KX_9}
@@ -38,7 +37,6 @@ markers:
   - {type: line-break, offset: 190, content: '', id: KX_14_dup96, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg-start', offset: 207, content: '', id: KR3fb009_tls_001-p122.s14.2, seg_type: comm, member_ids: [KR3fb009_tls_001-p122.s14.2]}
   - {type: 'tls:seg', offset: 207, content: '', id: KR3fb009_tls_001-p122.s14.2}
-  - {type: substitution, offset: 207, original: 仝, replacement: 同, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0172}}
   - {type: 'tls:seg-end', offset: 209, content: '', id: KR3fb009_tls_001-p122.s14.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 209, content: '', id: KR3fb009_tls_001-p122.s15}
   - {type: line-break, offset: 209, content: '', id: KX_15_dup94, _xml_error: duplicate-id, _xml_original_id: KX_15}
@@ -53,4 +51,4 @@ markers:
   - {type: 'tls:seg-start', offset: 282, content: '', id: KR3fb009_tls_001-p122.s19.2, seg_type: comm, member_ids: [KR3fb009_tls_001-p122.s19.2]}
   - {type: 'tls:seg', offset: 282, content: '', id: KR3fb009_tls_001-p122.s19.2}
   back: []
-hash: sha256:32a1c6753949876417d83da02e3f2e540fd78930b83161a9d5c6c88312a7fb06
+hash: sha256:0c263aa2c14988bb51310d7e89860aebaccfa3a9efdbfc35b7b55c4066aa9ed7

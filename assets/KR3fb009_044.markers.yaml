@@ -25,14 +25,12 @@ markers:
   - {type: line-break, offset: 118, content: '', id: KX_11_dup17, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: 'tls:seg', offset: 130, content: '', id: KR3fb009_tls_001-p20.s12}
   - {type: line-break, offset: 130, content: '', id: KX_12_dup17, _xml_error: duplicate-id, _xml_original_id: KX_12}
-  - {type: substitution, offset: 138, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 140, content: '', id: KR3fb009_tls_001-p20.s13}
   - {type: line-break, offset: 140, content: '', id: KX_13_dup17, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 149, content: '', id: KR3fb009_tls_001-p20.s14}
   - {type: line-break, offset: 149, content: '', id: KX_14_dup17, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 161, content: '', id: KR3fb009_tls_001-p20.s15}
   - {type: line-break, offset: 161, content: '', id: KX_15_dup17, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 167, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 172, content: '', id: KR3fb009_tls_001-p20.s16}
   - {type: line-break, offset: 172, content: '', id: KX_16_dup17, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 185, content: '', id: KR3fb009_tls_001-p20.s17}
@@ -42,4 +40,4 @@ markers:
   - {type: 'tls:seg', offset: 206, content: '', id: KR3fb009_tls_001-p20.s19}
   - {type: line-break, offset: 206, content: '', id: KX_19_dup17, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:2d2de0858ca0b2a0c9fea11e2280bbc8ad1da343785d5f5bb50eebad6a87e493
+hash: sha256:a305cab01ae48da314f993afc8ec0cfb8e84d037a0b2b11a9e95b54262b824d3
