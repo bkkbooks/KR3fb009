@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 知况又為覩厯經不識儀表粗曉算術罔諳星象惟據史冊成説實乏師跷口授是以斯法或有差誤天下後世通儒見者有以正其謬而存其理其於厯法不無小補以折衷衆法而成之故謂之折中厯法云萬厯二十二年十月之吉靈夀朱仲福序
-  hash: sha256:053e5073a68f9fe72978001f7b13f2b713a53594db0919c85e18d053eb9fd25f
+  text: 知况又為覩厯經不識儀表粗曉算術罔諳星象惟據史册成説實乏師蹺口授是以斯法或有差誤天下後世通儒見者有以正其謬而存其理其於厯法不無小補以折衷衆法而成之故謂之折中厯法云萬厯二十二年十月之吉靈夀朱仲福序
+  hash: sha256:35568a438bde7453e54f9a061e7aa49ed44d720354ccfbe92234607e898cc945
 metadata:
   title: 折衷曆法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb009.xml
-hash: sha256:b3908c1f5f5edec5a86fb388b8a8e57dce58b8d21acb120cf95c4a6cff0ffc57
+hash: sha256:0333a60fa8a2143e1cd93ed9b8c8c9221cd46ce1cd67466278151333db8db3c1
